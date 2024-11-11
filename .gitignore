@@ -72,4 +72,8 @@ Thumbs.db
 # Firebase
 .firebase
 *-debug.log
+<<<<<<< HEAD
 .runtimeconfig.json
+=======
+.runtimeconfig.json
+>>>>>>> master
