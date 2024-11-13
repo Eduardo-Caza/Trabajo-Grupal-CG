@@ -69,7 +69,9 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# Ignorar archivos de entorno
 /src/environments/environment.ts
+/src/environments/environment.prod.ts
 
 # Firebase
 .firebase
