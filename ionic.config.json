@@ -1,5 +1,7 @@
 {
   "name": "Trabajo-Grupal",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
